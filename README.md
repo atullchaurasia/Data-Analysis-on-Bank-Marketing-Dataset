@@ -5,4 +5,5 @@ This is a project on Bank Marketing Dataset where i have done the data analysis,
 2. Described the datset
 3. Checked for categorical values
 4. Checked for numerical values
-5. 
+5. Checked for outliers - removed the outliers
+6. 
