@@ -6,7 +6,7 @@ This is a project on Bank Marketing Dataset where i have done the data analysis,
 3. Checked for categorical values
 4. Checked for numerical values
 5. Checked for outliers - removed the outliers
-6. Checked for null values - replaced null values by Nan
+6. Checked for null values - replaced null values by NaN
 7. Independent and Dependent values
 8. One Hot encoding
 9. Balanced the unbalanced dataset by SMOTE method
