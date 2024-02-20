@@ -6,4 +6,6 @@ This is a project on Bank Marketing Dataset where i have done the data analysis,
 3. Checked for categorical values
 4. Checked for numerical values
 5. Checked for outliers - removed the outliers
-6. 
+6. Checked for null values - replaced null values by Nan
+7. Independent and Dependent values
+8. 
