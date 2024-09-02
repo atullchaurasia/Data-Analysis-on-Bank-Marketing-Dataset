@@ -1,7 +1,3 @@
-Here's a sample README file that you can use for your GitHub repository. You can modify it according to your project specifics:
-
----
-
 # Bank Marketing Data Analysis
 
 This project focuses on analyzing the "Bank Marketing" dataset to understand customer behavior and build a predictive model to determine whether a client will subscribe to a term deposit or not. The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing).
