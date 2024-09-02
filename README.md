@@ -95,5 +95,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The project was inspired by various data science and machine learning resources available online.
 
 ---
-
-You can adjust the above content as needed and include additional details or sections that might be relevant to your specific project.
